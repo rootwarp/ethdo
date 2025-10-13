@@ -1,5 +1,8 @@
 dev:
  
+1.39.0:
+ - support Fulu 
+
 1.38.0:
  - update latest version of go-eth2-client to support complex Spec types
  - adapt event handling to use new event handler structures in go-eth2-client  
